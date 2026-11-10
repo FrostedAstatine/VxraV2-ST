@@ -1,0 +1,25 @@
+webview2/
+node/
+node_modules/
+*.WebView2/
+VxraST.exe.WebView2/
+*.log
+webview-log.txt
+crash-log.txt
+st.zip
+data/default-user/chats/
+data/default-user/group chats/
+data/default-user/backups/
+data/default-user/stats.json
+.vscode/
+.idea/
+data/_cache/
+data/_webpack/
+data/_storage/
+data/cookie-secret.txt
+data/default-user/secrets.json
+data/default-user/settings.json
+data/default-user/chats/
+data/default-user/group chats/
+data/default-user/backups/
+data/default-user/stats.json
